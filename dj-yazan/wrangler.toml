@@ -1,4 +1,0 @@
-name = "dj-yazan"
-main = "main.js"
-compatibility_date = "2024-06-07"
-workers_dev = true

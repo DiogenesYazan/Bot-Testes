@@ -1,9 +1,0 @@
-name = "discord-bot"
-type = "javascript"
-
-account_id = "your-account-id"
-workers_dev = true
-main = "./dist/worker.js"
-
-[env.production]
-workers_dev = false
